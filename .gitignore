@@ -102,3 +102,17 @@ dist
 
 # TernJS port file
 .tern-port
+
+# files in cornerstone
+node_modules/
+.stencil
+secrets.stencil.json
+.DS_Store
+assets/css-artifacts
+assets/js/bundle.js
+assets/dist
+vendor/bundle
+.bundle
+*.js.map
+*.zip
+.idea/
